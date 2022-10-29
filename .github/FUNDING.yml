@@ -1,13 +1,13 @@
 # These are supported funding model platforms
 
 github: ['Leluka11']
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-otechie: # Replace with a single Otechie username
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+patreon: ['Leluka11']
+open_collective: ['Leluka11']
+ko_fi: ['Leluka11']
+tidelift: ['Leluka11']
+community_bridge: ['Leluka11']
+liberapay: ['Leluka11']
+issuehunt: ['Leluka11']
+otechie: ['Leluka11']
+lfx_crowdfunding: ['Leluka11']
 custom: ['https://github.com/Leluka11/Discord-Token-Generator/']
