@@ -68,18 +68,18 @@ def start():
 
 
     def get_date():
-        driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[1]/div/div/div/form/div/div/div[4]/div[1]/div[1]/div/div/div/div/div[1]/div[1]").click()
+        driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[1]/div/div/form/div/div/fieldset/div[1]/div[1]/div/div/div/div").click()
         driver.find_element(By.ID, "react-select-2-option-0").click()
 
-        driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[1]/div/div/div/form/div/div/div[4]/div[1]/div[2]/div/div/div/div/div[1]/div[1]").click()
+        driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[1]/div/div/form/div/div/fieldset/div[1]/div[2]/div/div/div/div").click()
         driver.find_element(By.ID, "react-select-3-option-0").click()
         
-        driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[1]/div/div/div/form/div/div/div[4]/div[1]/div[3]/div/div/div/div/div[1]").click()
+        driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[1]/div/div/form/div/div/fieldset/div[1]/div[3]/div/div/div/div").click()
         driver.find_element(By.ID, "react-select-4-option-17").click()
 
 
     def get_checkbox():
-        driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[1]/div/div/div/form/div/div/div[5]/label/input").click()
+        driver.find_element(By.XPATH, "/html/body/div[1]/div[2]/div/div[1]/div/div/form/div/div/div[4]/label/input").click()
 
 
     def get_button():
